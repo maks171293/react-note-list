@@ -1,0 +1,14 @@
+{
+  "name": "react-note-list",
+  "version": "1.0.0",
+  "description": "React Note List",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Maks Andreev",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
