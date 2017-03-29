@@ -8,9 +8,8 @@ body{
   -webkit-box-shadow: 0 0 2px rgba(0,0,0,.4);
   box-shadow: 0 0 2px rgba(0,0,0,.4);
   width: 200px;
-  -webkit-transition: .2s;
-  -o-transition: .2s;
-  transition: .2s;
+  transition-property: box-shadow;
+  transition-duration: .2s;
   margin: 10px;
   float: left;
 }
